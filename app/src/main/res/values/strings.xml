@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies Explorer</string>
+    <string name="pick_image_intent_text">Pick Image</string>
+    <string name="demo_min_label">min</string>
+    <string name="demo_max_label">max</string>
+    <string name="languaje_api">en-US</string>
+</resources>
